@@ -6,7 +6,7 @@
       "id": "did:web:agents.slashlife.ai:zeoy#keys-1",
       "type": "Ed25519VerificationKey2018",
       "controller": "did:web:agents.slashlife.ai:zeoy",
-      "publicKeyBase64": "X42Xtf0gxrWHmyGzBSxbVF2nsyjp/9/EFwYYaheSzZ4="
+      "publicKeyBase64": "b4voYz/gBllAD+/lwgGPBEY3ycYbNieZRlGXAdRfmW8="
     }
   ],
   "authentication": [

@@ -6,7 +6,7 @@
       "id": "did:web:agents.slashlife.ai:max#keys-1",
       "type": "Ed25519VerificationKey2018",
       "controller": "did:web:agents.slashlife.ai:max",
-      "publicKeyBase64": "zLtQ2+2FreksAdOSp7/FKqET0x1LekT0z41O8bziasc="
+      "publicKeyBase64": "fe+oWxnkip8o2nVWWWhZIwPSTmufU+9cFH8W9tfuiqg="
     }
   ],
   "authentication": [

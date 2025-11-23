@@ -6,7 +6,7 @@
       "id": "did:web:agents.slashlife.ai:hana#keys-1",
       "type": "Ed25519VerificationKey2018",
       "controller": "did:web:agents.slashlife.ai:hana",
-      "publicKeyBase64": "lbrkLFbHqXXmqtyKFUymqHngRJfkvlAmEZk8WTNNhCE="
+      "publicKeyBase64": "mrWeZTj+qsHscUn5FwnKTgrti+snOecAUFW92hY+tdA="
     }
   ],
   "authentication": [
