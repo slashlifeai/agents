@@ -5,6 +5,15 @@
 </head>
 <body>
   <h1>DID Webs</h1>
+  <p>
+    Decentralized Identifiers (DIDs) are a new type of identifier that enables verifiable, decentralized digital identity.
+    The `did:web` method leverages existing web infrastructure to create and resolve DIDs.
+    To resolve a `did:web` DID, you can construct a URL by replacing `did:web:` with `https://`,
+    and then appending `/.well-known/<path>/did.json`.
+    For example, the DID `did:web:agents.slashlife.ai:max` resolves to
+    `https://agents.slashlife.ai/.well-known/max/did.json`.
+    Clicking on the links below will take you to the DID Document for each agent.
+  </p>
   <ul>
     <li><a href="/.well-known/max/did.json">https://agents.slashlife.ai/.well-known/max/did.json</a></li>
     <li><a href="/.well-known/hana/did.json">https://agents.slashlife.ai/.well-known/hana/did.json</a></li>
