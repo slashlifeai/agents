@@ -1,0 +1,5 @@
+{
+  "tasks": {
+    "serve": "deno run --allow-net --allow-read https://deno.land/std@0.140.0/http/file_server.ts"
+  }
+}
